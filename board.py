@@ -813,8 +813,7 @@ def allEmptyB(app):
                 return False
         return True 
 
-# def onStep(app):
-#     pass
+
 
 # runAppWithScreens(initialScreen='mode')
 
@@ -831,23 +830,3 @@ if __name__ == '__main__':
 
 
 
-##todo
-#input names :not in terminal but in screen
-#minimax 
-# def hoverPit(self): #to change color of pit 
-#add the welcome screens and the aurevoir screens
-#marble moving animation
-#improve UI
-
-
-
-
-
-#notes 
-#deposit marble in my own pit 
-    #deposit marble in store 
-    #deposit marble in opponent pit
-    #if last marble lands in store, take another turn 
-    #if last marble lands in my own pit and its empty, 
-            # capture that last marble 
-            # capture all the marble in opposite pit of the opponent 
